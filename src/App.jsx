@@ -3,8 +3,7 @@ import './App.css'
 function App() {
   return (
     <section>
-      <p>Adding 1</p>
-
+      <p>adding 2</p>
     </section>
   )
 }
